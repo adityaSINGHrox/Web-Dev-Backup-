@@ -1,0 +1,15 @@
+body {
+    background-color: orange;
+    font-family: Verdana;
+}
+
+h1{
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+p{
+    color: black;
+    font-family: Verdana;
+    font-size: 30px;
+}

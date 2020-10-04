@@ -1,0 +1,86 @@
+students{
+    background-color: darkorange;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+student{
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 0;
+    text-align: initial;
+    
+}
+name::before{
+    content: "NAME: ";
+    font-size: 15pt;
+    color: blueviolet;
+}
+name{
+    display: block;
+    margin-left : 15pt;
+    color: whitesmoke;
+    text-transform: capitalize;
+    font-size: 15pt;
+}
+usn::before{
+    content: "USN:";
+    font-size: 15pt;
+    color: blueviolet;
+}
+usn{
+    display: block;
+    margin-left: 0pt;
+    color: whitesmoke;
+    text-transform: capitalize;
+    font-size: 15pt;
+}
+college::before{
+    content: "College: ";
+    font-size: 15pt;
+    color: blueviolet;
+}
+college{
+    display: block;
+    margin-left: 15pt;
+    color: whitesmoke;
+    text-transform: capitalize;
+    font-size: 15pt;
+}
+email::before{
+    content: "Emial: ";
+    font-size: 15pt;
+    color: blueviolet;
+}
+email{
+    display: block;
+    margin-left: 15pt;
+    color: whitesmoke;
+    text-transform: capitalize;
+    font-size: 15pt;
+}
+branch::before{
+    content: "Branch: ";
+    font-size: 15pt;
+    color: blueviolet;
+}
+branch{
+    display: block;
+    margin-left: 15pt;
+    color: whitesmoke;
+    text-transform: capitalize;
+    font-size: 15pt;
+}
+yoj::before{
+    content: "Year of Joining: ";
+    font-size: 15pt;
+    color: blueviolet;
+}
+yoj{
+    display: block;
+    margin-left: 15pt;
+    color: whitesmoke;
+    text-transform: capitalize;
+    font-size: 15pt;
+}

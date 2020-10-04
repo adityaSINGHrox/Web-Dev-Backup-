@@ -1,0 +1,33 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet href="studentDataStyle.css" type="text/css"?>
+
+    <students>
+        <student>
+            <usn>1PE17CS010</usn>
+            <name>goku</name>
+            <college>turtle school </college>
+            <branch>cdc</branch>
+            <yoj>91</yoj>
+            <email>omd</email>
+        </student>
+
+        <student>
+            <image></image>
+            <usn>1PE17CS011</usn>
+            <name>lkd</name>
+            <college>lckd</college>
+            <branch>cdc</branch>
+            <yoj>91</yoj>
+            <email>omd</email>
+        </student>
+
+        <student>
+            <image></image>
+            <usn>1PE17CS012</usn>
+            <name>lkd</name>
+            <college>lckd</college>
+            <branch>cdc</branch>
+            <yoj>91</yoj>
+            <email>omd</email>
+        </student>
+    </students>
